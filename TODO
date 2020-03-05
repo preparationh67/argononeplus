@@ -1,4 +1,4 @@
-1. Pull apart weird OG setup script into components
+*1. Pull apart weird OG setup script into components
 2. Modify service to run as actual system service
 3. Create new setup/install script
 4. Improve non-Raspbian support

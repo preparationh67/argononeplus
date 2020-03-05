@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Argon One Configuration
+Comment=Argon One Configuration
+Icon=/usr/share/pixmaps/ar1config.png
+Exec=lxterminal -t "Argon One Configuration" --working-directory=/home/pi/ -e /usr/bin/argonone-config.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;

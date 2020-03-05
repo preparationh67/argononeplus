@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Argon One Uninstall
+Comment=Argon One Uninstall
+Icon=/usr/share/pixmaps/ar1uninstall.png
+Exec=lxterminal -t "Argon One Uninstall" --working-directory=/home/pi/ -e /usr/bin/argonone-uninstall.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
